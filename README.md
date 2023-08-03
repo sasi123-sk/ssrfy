@@ -1,5 +1,6 @@
 # ssrfy
-
+# What Is SSRF? 
+A Server-Side Request Forgery (SSRF) attack involves an attacker abusing server functionality to access or modify resources. The attacker targets an application that supports data imports from URLs or allows them to read data from URLs.
 # Usage:  ssrfy      
   
 Enter the URL to check for SSRF vulnerability: https://example.com
